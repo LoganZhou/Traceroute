@@ -1,0 +1,7 @@
+﻿  resolve.cpp
+  TraceRouteVS.cpp
+d:\dropbox\code\traceroutevs\traceroutevs\traceroutevs.cpp(42): warning C4603: “WIN32_LEAN_AND_MEAN”: 未定义宏或在预编译头使用后定义发生改变
+  d:\dropbox\code\traceroutevs\traceroutevs\traceroutevs.cpp(42): note: 将宏添加到预编译头中，而不是在此处定义
+  d:\dropbox\code\traceroutevs\traceroutevs\traceroutevs.cpp(46): note: 使用预编译头
+  正在生成代码...
+  TraceRouteVS.vcxproj -> D:\Dropbox\Code\TraceRouteVS\Debug\TraceRouteVS.exe
