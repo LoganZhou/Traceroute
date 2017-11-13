@@ -1,5 +1,5 @@
 # Traceroute
-A implement of traceroute using winsock2.
+A implement of traceroute using winsock.
 
 ## How to use it?
 Usage: Traceroute.exe -arge \<host\> \[data size\]  
